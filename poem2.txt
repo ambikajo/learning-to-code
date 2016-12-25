@@ -1,0 +1,5 @@
+poem 2
+
+This is the New Poem
+It is as boring as the old one
+It will help me git init
