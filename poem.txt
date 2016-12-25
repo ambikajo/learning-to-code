@@ -2,3 +2,4 @@ Learning to Code
 Learning Poetry
 The time I learnt to code
 Adding Coffee to make sure I can make a poem
+Committing through Terminal
